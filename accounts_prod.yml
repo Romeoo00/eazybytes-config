@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related PROD APIs "
   contactDetails:
     name: "Ousmane Keita - Product Owner"
-    email: "Ousmane@eazybank.com"
+    email: "{cipher}ae5c547b0715df643c1c6b28c9beee1b803c12fed34865c4f5a95c95aad8ce5316e70d67e8634714c390ef82ab6e17f8"
   onCallSupport:
     - (777) 888-1234
     - (222) 777-1345
