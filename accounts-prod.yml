@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related PRODUCTION APIs "
+  message: "Welcome to EazyBank accounts related production APIs "
   contactDetails:
     name: "Ousmane Keita - Product Owner"
     email: "{cipher}ae5c547b0715df643c1c6b28c9beee1b803c12fed34865c4f5a95c95aad8ce5316e70d67e8634714c390ef82ab6e17f8"
